@@ -2,7 +2,7 @@
 ### Overview
 This project involves the creation of a 3D scene featuring a computer setup, incorporating various 3D shapes, textures, lighting, and shaders. The scene includes elements like a laptop, lamp, and cup, demonstrating skills in computational graphics and visualization.
 
-### Questions and Responses
+## Questions and Responses
 ## 1. How do I approach designing software?
 **Design Approach**: 
 Designing software involves a systematic approach that starts with understanding the problem, followed by planning, implementing, and refining the solution. For this project, I began by defining the scope and requirements of the 3D scene. I then created a plan outlining the key components needed, such as the laptop, lamp, and cup.
